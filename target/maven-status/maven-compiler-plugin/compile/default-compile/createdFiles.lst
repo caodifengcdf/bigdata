@@ -1,0 +1,4 @@
+output\test\TwoPathOutputFile\MyRecordWriter.class
+output\test\TwoPathOutputFile\BaiduOutputMain.class
+output\test\TwoPathOutputFile\MyReducer.class
+output\test\TwoPathOutputFile\MyMapper.class

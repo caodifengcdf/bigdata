@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="066b129f-8102-48c3-8178-b30db4ec3ad8" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="066b129f-8102-48c3-8178-b30db4ec3ad8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mr/test/wordcount/WCMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hdfs/test/updown/hdfsdownfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdfs/test/updown/hdfsdownfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hdfs/test/updown/hdfsupfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdfs/test/updown/hdfsupfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/dataskew/WordCountMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/dataskew/WordCountMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/dataskew/WordCountReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/CustomGroupingMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/DateUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/MyGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/MyMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/MyPartitioner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/MyReducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/OrderBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/outputformat/MyOutPutFormat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/outputformat/MyOwnOutputFormatMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/secondarysort/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/secondarysort/SecondarySort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/totalorder/NcdcRecordParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/totalorder/SortByTemperatureUsingTotalOrderPartitioner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/totalorder/SortDataPreprocessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/wordcount/TestMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/wordcount/TestReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce/test/wordcount/TestWordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/hadooptest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hdfs/test/updown/hdfsdownfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdfs/test/updown/hdfsdownfile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hdfs/test/updown/hdfsupfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdfs/test/updown/hdfsupfile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapreduce/test/wordcount/TestMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapreduce/test/wordcount/TestReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapreduce/test/wordcount/TestWordCount.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,28 +44,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/OrderBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="1152" column="20" selection-start-line="1152" selection-start-column="20" selection-end-line="1152" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,6 +63,9 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -69,76 +82,35 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="794" />
-    <option name="y" value="173" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="292" />
+    <option name="y" value="57" />
     <option name="width" value="2141" />
     <option name="height" value="1337" />
+  </component>
+  <component name="ProjectId" id="1mafbvGMOqGn3UN2AVUPZSbVjHP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="hadooptest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadooptest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hadooptest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadooptest" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hadooptest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadooptest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hadooptest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadooptest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hadooptest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadooptest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hadooptest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadooptest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hadooptest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hadooptest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="grouping" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hadoop-2.7.3-src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -150,58 +122,133 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="mapreduce.test.grouping" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="output.test.TwoPathOutputFile" />
+      <recent name="input.test.CombineFile" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\hadooptest\src\main\java\mapreduce\test\grouping\java\mapreduce\test\grouping" />
       <recent name="E:\hadooptest\src\main\java\mapreduce\test\grouping" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mapreduce.test.grouping" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.mapreduce.test.wordcount.TestWordCount">
-    <configuration name="hdfs.tese.updown.hdfsupfile" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="hdfs.test.updown.hdfsupfile" />
+  <component name="RunManager" selected="Application.SecondSortMain">
+    <configuration name="BaiduOutputMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="output.test.TwoPathOutputFile.BaiduOutputMain" />
       <module name="hadooptest" />
-      <option name="PROGRAM_PARAMETERS" value="C:\Users\caodi\Desktop\1.txt     hdfs://192.168.61.101:9000/test/test.txt" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;hdfs://192.168.61.101:9000/hadoop_test/sougou_data_clean/part-m-00000&quot; &quot;hdfs://192.168.61.101:9000/hadoop_test/sougou_2_output&quot;" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hdfs.test.updown.hdfsdownfile" type="Application" factoryName="Application">
+    <configuration name="ComebineFileMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="input.test.CombineFile.ComebineFileMain" />
+      <module name="hadooptest" />
+      <option name="PROGRAM_PARAMETERS" value="E:\hadooptest\src\main\java\input\test\CombineFile\smallfile hdfs://192.168.61.101:9000/hadoop_test/sougou_combine3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataUserCountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mr.test.sougoudata.DataUserCountMain" />
+      <module name="hadooptest" />
+      <option name="PROGRAM_PARAMETERS" value="E:\hadooptest\src\main\java\input\test\CombineFile\smallfile hdfs://192.168.61.101:9000/hadoop_test/sougou_combine1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mr.test.sougoudata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondSortMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sort.test.secondsort.SecondSortMain" />
+      <module name="hadooptest" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;E:\hadooptest\src\main\java\sort\test\salarydata\salary.txt&quot; &quot;E:\hadooptest\src\main\java\sort\test\salarydata\sort_salary&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="datacleanmain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mr.test.sougoudata.DataCleanMain" />
+      <module name="hadooptest" />
+      <option name="PROGRAM_PARAMETERS" value="hdfs://192.168.61.101:9000/hadoop_test/sougou_data_source/ hdfs://192.168.61.101:9000/hadoop_test/sougou_data_clean" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hdfsdownfile" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hdfs.test.updown.hdfsdownfile" />
       <module name="hadooptest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hdfs.test.updown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mapreduce.test.wordcount.TestWordCount" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="mapreduce.test.wordcount.TestWordCount" />
+    <configuration name="hdfsupfile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hdfs.test.updown.hdfsupfile" />
       <module name="hadooptest" />
-      <option name="PROGRAM_PARAMETERS" value="C:\Users\caodi\Desktop\1.txt     hdfs://192.168.61.101:9000/test/test.txt" />
+      <option name="PROGRAM_PARAMETERS" value="/hadoop_test/sougou_data_source/sougou50w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hdfs.test.updown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mr.test.wordcount.WCMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mr.test.wordcount.WCMain" />
+      <module name="hadooptest" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\caodi\Desktop\wordcount_test.txt hdfs://192.168.61.101:9000/hadoop_test/word_count.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.hdfs.tese.updown.hdfsupfile" />
-      <item itemvalue="Application.hdfs.test.updown.hdfsdownfile" />
-      <item itemvalue="Application.mapreduce.test.wordcount.TestWordCount" />
+      <item itemvalue="Application.datacleanmain" />
+      <item itemvalue="Application.BaiduOutputMain" />
+      <item itemvalue="Application.SecondSortMain" />
+      <item itemvalue="Application.ComebineFileMain" />
+      <item itemvalue="Application.mr.test.wordcount.WCMain" />
+      <item itemvalue="Application.hdfsdownfile" />
+      <item itemvalue="Application.DataUserCountMain" />
+      <item itemvalue="Application.hdfsupfile" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataUserCountMain" />
+        <item itemvalue="Application.hdfsupfile" />
+        <item itemvalue="Application.hdfsdownfile" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -219,17 +266,27 @@
       <workItem from="1608365997569" duration="4647000" />
       <workItem from="1608397925811" duration="628000" />
       <workItem from="1608463541718" duration="1084000" />
+      <workItem from="1609735744058" duration="135000" />
+      <workItem from="1609736701442" duration="113000" />
+      <workItem from="1609736827839" duration="6783000" />
+      <workItem from="1609817346767" duration="7857000" />
+      <workItem from="1610078279426" duration="6629000" />
+      <workItem from="1610086995465" duration="9685000" />
+      <workItem from="1610154326902" duration="1223000" />
+      <workItem from="1610164393332" duration="14137000" />
+      <workItem from="1610329346346" duration="16433000" />
+      <workItem from="1610415768653" duration="10544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16243000" />
+    <option name="totallyTimeSpent" value="16378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="794" y="173" width="2141" height="1337" extended-state="1" />
+    <frame x="292" y="57" width="2141" height="1337" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49653378" visible="true" weight="0.3080292" />
-      <window_info id="Structure" order="1" sideWeight="0.5034662" side_tool="true" visible="true" weight="0.3080292" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4954281" visible="true" weight="0.31090823" />
+      <window_info id="Structure" order="1" sideWeight="0.5045719" side_tool="true" visible="true" weight="0.31090823" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -293,7 +350,19 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -301,13 +370,11 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/mapreduce/test/wordcount/TestWordCount.java</url>
           <line>71</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/2.6.0-mr1-cdh5.14.2/hadoop-core-2.6.0-mr1-cdh5.14.2.jar!/org/apache/hadoop/mapreduce/Job.class</url>
           <line>286</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
@@ -443,77 +510,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="95" column="39" selection-end-line="128" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/DateUtils.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/wordcount/TestMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/hdfs/test/updown/hdfsdownfile.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/MyMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/MyGroup.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/CustomGroupingMain.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/hdfs/test/updown/hdfsupfile.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/MyPartitioner.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/wordcount/TestReduce.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/wordcount/TestWordCount.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/grouping/DateUtils.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/grouping/MyMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/grouping/CustomGroupingMain.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/wordcount/TestReduce.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/secondarysort/Person.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/totalorder/SortDataPreprocessor.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/hdfs/test/updown/hdfsupfile.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/hdfs/test/updown/hdfsdownfile.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/grouping/MyGroup.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/wordcount/TestWordCount.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/DateUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/wordcount/TestMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/hdfs/test/updown/hdfsdownfile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/MyMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/MyGroup.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/CustomGroupingMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/hdfs/test/updown/hdfsupfile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/MyPartitioner.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/wordcount/TestReduce.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/wordcount/TestWordCount.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/grouping/DateUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/grouping/MyMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/grouping/CustomGroupingMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/wordcount/TestReduce.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/secondarysort/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/totalorder/SortDataPreprocessor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/hdfs/test/updown/hdfsupfile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/hdfs/test/updown/hdfsdownfile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/grouping/MyGroup.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/java/mapreduce/test/grouping/test/grouping/java/mapreduce/test/wordcount/TestWordCount.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce/test/grouping/OrderBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="304">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -521,6 +541,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="1152" column="20" selection-start-line="1152" selection-start-column="20" selection-end-line="1152" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="95" column="39" selection-end-line="128" selection-end-column="10" />
         </state>
       </provider>
     </entry>

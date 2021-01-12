@@ -1,0 +1,16 @@
+E:\hadooptest\src\main\java\input\test\CombineFile\ComebineFileMain.java
+E:\hadooptest\src\main\java\output\test\TwoPathOutputFile\BaiduOutputMain.java
+E:\hadooptest\src\main\java\output\test\TwoPathOutputFile\MyReducer.java
+E:\hadooptest\src\main\java\hdfs\test\updown\hdfsdownfile.java
+E:\hadooptest\src\main\java\output\test\TwoPathOutputFile\MyRecordWriter.java
+E:\hadooptest\src\main\java\mr\test\wordcount\WCMain.java
+E:\hadooptest\src\main\java\mr\test\wordcount\WCMain_2.java
+E:\hadooptest\src\main\java\mr\test\sougoudata\DataCleanMain.java
+E:\hadooptest\src\main\java\mr\test\wordcount\WCMapper.java
+E:\hadooptest\src\main\java\output\test\TwoPathOutputFile\TwoPathOutputFile.java
+E:\hadooptest\src\main\java\mr\test\sougoudata\DataUserCountMain.java
+E:\hadooptest\src\main\java\input\test\CombineFile\CombineFileInput.java
+E:\hadooptest\src\main\java\mr\test\wordcount\WCReduce.java
+E:\hadooptest\src\main\java\output\test\TwoPathOutputFile\MyMapper.java
+E:\hadooptest\src\main\java\input\test\CombineFile\NoLineRecordReader.java
+E:\hadooptest\src\main\java\hdfs\test\updown\hdfsupfile.java
